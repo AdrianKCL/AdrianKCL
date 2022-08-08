@@ -25,6 +25,27 @@
 
 <h3 align="center">Frontend Developer</h3>
 
+<div align="center">
+    
+[![react][react]][react-url]
+[![html][html]][html-url]
+[![css][css]][css-url]
+[![javascript][javascript]][javascript-url]
+[![typescript][typescript]][typescript-url]
+[![node][node]][node-url]
+[![next][next]][next-url]
+[![tailwind][tailwind]][tailwind-url]
+[![npm][npm]][npm-url]
+[![mui][mui]][mui-url]
+[![react-router][react-router]][react-router-url]
+[![react-query][react-query]][react-query-url]
+[![redux][redux]][redux-url]
+[![vite][vite]][vite-url]
+[![firebase][firebase]][firebase-url]
+[![vercel][vercel]][vercel-url]
+
+</div>
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
