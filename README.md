@@ -20,6 +20,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Adrian+Kiedrowicz...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </div>
+
+<hr>
+
+<h3 align="center">Frontend Developer</h3>
+
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [gmail]: 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
