@@ -45,6 +45,7 @@
 [![vercel][vercel]][vercel-url]
 
 </div>
+<hr/>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
