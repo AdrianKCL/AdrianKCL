@@ -91,5 +91,5 @@
 [javascript-url]: https://www.javascript.com/
 [typescript]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
 [typescript-url]: https://www.typescriptlang.org/
-[chakra]: https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored@2x.png?raw=true
+[chakra]: https://img.shields.io/badge/Chakra UI-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
 [chakra-url]: https://chakra-ui.com/
