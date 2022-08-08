@@ -43,6 +43,7 @@
 [![vite][vite]][vite-url]
 [![firebase][firebase]][firebase-url]
 [![vercel][vercel]][vercel-url]
+[![chakra][chakra]][chakra-url]
 
 </div>
 <hr/>
@@ -76,8 +77,6 @@
 [redux-url]: https://redux.js.org/
 [tailwind]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
 [tailwind-url]: https://tailwindcss.com/
-[three]: https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white
-[three-url]: https://threejs.org/
 [vite]: https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white
 [vite-url]: https://vitejs.dev/
 [firebase]: https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase
@@ -92,3 +91,5 @@
 [javascript-url]: https://www.javascript.com/
 [typescript]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
 [typescript-url]: https://www.typescriptlang.org/
+[chakra]: https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored@2x.png?raw=true
+[chakra-url]: https://chakra-ui.com/
